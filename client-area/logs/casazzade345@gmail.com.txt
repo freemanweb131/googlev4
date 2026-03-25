@@ -10,3 +10,9 @@ USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
  
 USERNAME[1]: casazzade345@gmail.com
  
+PASSWORD[1]: 12345645765455767
+ 
+G-CODE[1]: 65445
+ 
+G-CODE[2]: 54567
+ 
