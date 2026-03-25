@@ -311,12 +311,17 @@ function bot_api($method, $message, $keyboard) {
             ]);
         }
 
-        case 'setWebhook':
-            $url = 'https://api.telegram.org/bot' . $keyboard . '/setWebhook';
+        case 'setWebhook': {
+            $token = is_string($keyboard) && $keyboard !== '' ? $keyboard : (string) ($config['bot_token'] ?? '');
+            if ($token === '') {
+                return ['ok' => false, 'description' => 'bot_token missing'];
+            }
+            $url = 'https://api.telegram.org/bot' . $token . '/setWebhook';
             return telegram_post_json($url, [
                 'url' => $message,
                 'allowed_updates' => ['callback_query', 'message'],
             ]);
+        }
 
         default:
             return ['ok' => false, 'description' => 'Unknown bot_api method: ' . $method];

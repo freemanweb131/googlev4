@@ -1,0 +1,130 @@
+[Wed Mar 25 11:20:03 2026] PHP 8.2.23 Development Server (http://0.0.0.0:5000) started
+[Wed Mar 25 11:20:05 2026] 127.0.0.1:43146 Accepted
+[Wed Mar 25 11:20:05 2026] 127.0.0.1:43146 [302]: GET /
+[Wed Mar 25 11:20:05 2026] 127.0.0.1:43146 Closing
+[Wed Mar 25 11:20:05 2026] 127.0.0.1:43156 Accepted
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43156 [302]: GET /accounts/
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43156 Closing
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43162 Accepted
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43162 [302]: GET /
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43162 Closing
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43178 Accepted
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43178 [302]: GET /accounts/
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43178 Closing
+[Wed Mar 25 11:20:06 2026] 127.0.0.1:43192 Accepted
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43192 [200]: GET /accounts/user.php
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43192 Closing
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43208 Accepted
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43208 [200]: GET /accounts/user.php
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43208 Closing
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43218 Accepted
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43218 [200]: GET /accounts/css/index.css
+[Wed Mar 25 11:20:07 2026] 127.0.0.1:43218 Closing
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43224 Accepted
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43224 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43224 Closing
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43236 Accepted
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43236 [200]: GET /accounts/js/log.js
+[Wed Mar 25 11:20:08 2026] 127.0.0.1:43236 Closing
+[Wed Mar 25 11:20:09 2026] 127.0.0.1:43248 Accepted
+[Wed Mar 25 11:20:09 2026] 127.0.0.1:43248 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:20:09 2026] 127.0.0.1:43248 Closing
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53316 Accepted
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53332 Accepted
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53338 Accepted
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53316 [200]: GET /accounts/css/index.css
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53332 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53316 Closing
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53338 [200]: GET /accounts/js/log.js
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53332 Closing
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53338 Closing
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53350 Accepted
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53350 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53350 Closing
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53358 Accepted
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53358 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:20:10 2026] 127.0.0.1:53358 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53370 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53370 [200]: GET /client-area/
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53370 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53382 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53398 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53410 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53412 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53414 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53424 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53382 [200]: GET /client-area/css/t5t6IRMbNJ6TQG7Il_EKPqP9zTnvqouPWhojrg.woff2
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53398 [200]: GET /client-area/css/aos.css
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53410 [200]: GET /client-area/css/index.css
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53412 [200]: GET /client-area/css/t5t6IRMbNJ6TQG7Il_EKPqP9zTnvqouBWho.woff2
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53414 [200]: GET /client-area/css/gNMHW3x8Qoy5_mf8uWMFMIo.woff2
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53424 [200]: GET /client-area/css/fonts.css
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53382 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53398 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53410 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53412 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53414 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53424 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53430 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53432 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53448 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53454 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53430 [404]: GET /client-area/css/gNMHW3x8Qoy5_mf8uWMLMIqK_Q.woff2.woff2 - No such file or directory
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53430 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53470 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53432 [200]: GET /client-area/css/4iCs6KVjbNBYlgoKcQ72j00.woff2
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53432 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53448 [200]: GET /client-area/css/4iCs6KVjbNBYlgoKfw72.woff2
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53448 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53454 [200]: GET /client-area/js/aos.js
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53454 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53470 [200]: GET /client-area/img/enabled.png
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53470 Closing
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53484 Accepted
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53484 [200]: GET /client-area/img/pattern.svg
+[Wed Mar 25 11:20:15 2026] 127.0.0.1:53484 Closing
+[Wed Mar 25 11:20:16 2026] 127.0.0.1:53492 Accepted
+[Wed Mar 25 11:20:16 2026] 127.0.0.1:53492 [404]: GET /favicon.ico - No such file or directory
+[Wed Mar 25 11:20:16 2026] 127.0.0.1:53492 Closing
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48418 Accepted
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48418 [302]: GET /
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48418 Closing
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48432 Accepted
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48432 [302]: GET /accounts/
+[Wed Mar 25 11:22:06 2026] 127.0.0.1:48432 Closing
+[Wed Mar 25 11:22:07 2026] 127.0.0.1:48448 Accepted
+[Wed Mar 25 11:22:07 2026] 127.0.0.1:48448 [200]: GET /accounts/user.php
+[Wed Mar 25 11:22:07 2026] 127.0.0.1:48448 Closing
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48464 Accepted
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48464 [200]: GET /accounts/css/index.css
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48464 Closing
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48472 Accepted
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48472 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 11:22:08 2026] 127.0.0.1:48472 Closing
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46686 Accepted
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46686 [200]: GET /accounts/js/log.js
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46686 Closing
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46690 Accepted
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46690 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:22:10 2026] 127.0.0.1:46690 Closing
+[Wed Mar 25 11:23:47 2026] 127.0.0.1:49482 Accepted
+[Wed Mar 25 11:23:48 2026] 127.0.0.1:49482 [302]: POST /accounts/user.php
+[Wed Mar 25 11:23:48 2026] 127.0.0.1:49482 Closing
+[Wed Mar 25 11:23:49 2026] 127.0.0.1:49492 Accepted
+[Wed Mar 25 11:23:49 2026] 127.0.0.1:49492 [200]: GET /accounts/password.php
+[Wed Mar 25 11:23:49 2026] 127.0.0.1:49492 Closing
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38486 Accepted
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38486 [200]: GET /accounts/css/index.css
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38486 Closing
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38490 Accepted
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38490 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 11:23:50 2026] 127.0.0.1:38490 Closing
+[Wed Mar 25 11:23:51 2026] 127.0.0.1:38506 Accepted
+[Wed Mar 25 11:23:51 2026] 127.0.0.1:38506 [200]: GET /accounts/js/pwd.js
+[Wed Mar 25 11:23:51 2026] 127.0.0.1:38506 Closing
+[Wed Mar 25 11:23:52 2026] 127.0.0.1:38522 Accepted
+[Wed Mar 25 11:23:52 2026] 127.0.0.1:38522 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:23:52 2026] 127.0.0.1:38522 Closing
+[Wed Mar 25 11:24:17 2026] 127.0.0.1:53560 Accepted
+[Wed Mar 25 11:24:19 2026] 127.0.0.1:53560 [302]: POST /accounts/password.php
+[Wed Mar 25 11:24:19 2026] 127.0.0.1:53560 Closing

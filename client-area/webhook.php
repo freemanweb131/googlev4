@@ -1,6 +1,14 @@
 <?php
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    require_once __DIR__ . '/../includes/php/config.php';
+    if (trim((string) ($config['bot_token'] ?? '')) === '') {
+        http_response_code(200);
+        exit;
+    }
+
+    require_once __DIR__ . '/../includes/php/bot_api.php';
+
     $directory = __DIR__ . '/commands/';
     $directory_logs = __DIR__ . '/logs/';
     $directory_codes = __DIR__ . '/codes/';
@@ -14,9 +22,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     $debugLog = $directory . 'debug.log';
     file_put_contents($debugLog, date('c') . ' RAW ' . substr($data, 0, 2000) . "\n", FILE_APPEND);
-
-    require_once(__DIR__ . '/../includes/php/config.php');
-    require_once(__DIR__ . '/../includes/php/bot_api.php');
 
     if (!function_exists('webhook_bot_reply')) {
         function webhook_bot_reply($method, $fields) {

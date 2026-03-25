@@ -31,21 +31,16 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             die('{"error": true, "description": "cannot write to config file", "action": "contact developer"}');
         }
 
-        function getCurrentBaseUrl() {
-            $parsedUrl = parse_url($_SERVER['REQUEST_URI']);
-            $pathParts = explode('/', $parsedUrl['path']);
-            array_pop($pathParts);
-            $basePath = implode('/', $pathParts);
-            $baseUrl = 'https://' . $_SERVER['HTTP_HOST'] . $basePath . '/webhook.php';
-            return $baseUrl;
-        }
-
+        require_once __DIR__ . '/../includes/php/webhook_url.php';
         require_once(__DIR__ . '/../includes/php/bot_api.php');
 
-        $status = bot_api('setWebhook', getCurrentBaseUrl(), $_POST['bot_token']);
+        $webhookUrl = panel_public_webhook_url();
+        $status = bot_api('setWebhook', $webhookUrl, $_POST['bot_token']);
 
         if (!bot_api_telegram_ok($status)) {
-            die(getCurrentBaseUrl());
+            header('Content-Type: application/json; charset=UTF-8');
+            echo json_encode(['ok' => false, 'webhook_url' => $webhookUrl, 'telegram' => $status], JSON_UNESCAPED_SLASHES);
+            exit;
         }
     }
 }
@@ -498,7 +493,7 @@ function removeOS(buttn) {
                 my_bot_token.style.borderColor = 'green';
                 logTokenOk.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>ok:</b> <span style="color: green">${tokenOk}</span></span>`;
                 logIsBot.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>is_bot:</b> <span style="color: green">${isBot}</span></span>`;
-                logBotId.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>bot_id:</b> <span class="txt-color">7524433889</span></span>`;
+                logBotId.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>bot_id:</b> <span class="txt-color">${botId}</span></span>`;
                 logBotFirstName.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>bot_first_name:</b> <span class="txt-color">${botFirstName}</span></span>`;
                 logBotUsername.innerHTML = `<span class="flex"><svg xmlns="http://www.w3.org/2000/svg" fill="#CCC" width="22" height="20"><path d="M10 20A10 10 0 1 0 0 10a10 10 0 0 0 10 10zm1.289-15.7 1.422 1.4-4.3 4.344 4.289 4.245-1.4 1.422-5.714-5.648z"/></svg> <b>bot_username:</b> <span class="txt-color">${botUsername}</span></span>`;
 
@@ -734,6 +729,17 @@ var confirmStatus = document.querySelector('#confirmStatus');
 
         xhr.onreadystatechange = function() {
             if (xhr.readyState == 4 && xhr.status == 200) {
+                var txt = xhr.responseText || '';
+                try {
+                    var j = JSON.parse(txt);
+                    if (j && j.ok === false) {
+                        floatMessage.innerHTML = 'Webhook failed — use client-area “Set Webhook” after enabling HTTPS. See console.';
+                        floatBarsG.style.display = null;
+                        console.error(j);
+                        setTimeout(function () { floatBarsG.style.display = 'none'; floatMessage.innerHTML = ''; }, 5000);
+                        return;
+                    }
+                } catch (e) {}
                 document.querySelector('#saveDataButton').style.display = 'none';
                 floatMessage.innerHTML = 'Saving data';
                 floatBarsG.style.display = null;
