@@ -1,0 +1,14 @@
+IP: 69.16.157.24
+COUNTRY: IT
+ISP: Strong Technology, LLC.
+ORG: Netprotect
+ASN: AS62651 Strong Technology, LLC.
+DEVICE: Desktop
+BROWSER: Google-Chrome
+OS: Windows 10
+USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+ 
+USERNAME[1]: 1414123151
+ 
+PASSWORD[1]: adasd1231
+ 

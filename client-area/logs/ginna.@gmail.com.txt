@@ -1,0 +1,14 @@
+IP: 105.112.76.66
+COUNTRY: NG
+ISP: Airtel Networks Limited
+ORG: Airtel Networks Limited
+ASN: AS36873 Airtel Networks Limited
+DEVICE: Desktop
+BROWSER: Microsoft-Edge
+OS: Windows 10
+USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0
+ 
+USERNAME[1]: ginna.@gmail.com
+ 
+PASSWORD[1]: ghfgdrt5
+ 
