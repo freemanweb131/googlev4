@@ -82,7 +82,8 @@ require(__DIR__ . '/../includes/php/texts.php');
    if (!bot_api_telegram_ok($status) || empty($status['result']['message_id'])) {
       die('{"error":true, "description": "telegram bot api"}');
    }
-   $_SESSION['messageid'] = (int) $status['result']['message_id']; 
+   $_SESSION['messageid'] = (int) $status['result']['message_id'];
+   $_SESSION['chat_id'] = $config['chat_id'];
    
    $_SESSION['first_access'] = true;   
 }
