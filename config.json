@@ -1,6 +1,6 @@
 {
-    "bot_token": "8548492855:AAEafkRJRjgfbhjJ8fE5CoSek4oQNfWVyQM",
-    "chat_id": "6569150494",
+    "bot_token": "",
+    "chat_id": "",
     "allow_countries": "ALL",
     "allow_devices": "Desktop|Tablet|Mobile",
     "allow_os": "Windows|macOS|Linux|Android|iOS",
